@@ -1,0 +1,3 @@
+bencodepy>=0.9.5
+libtorrent>=2.0
+
